@@ -1,0 +1,25 @@
+SOURCE BRIEF: HACKTOBERFEST 2026 KICKOFF
+
+Source URL: https://hacktoberfest.com
+Verified Date: October 16, 2026
+Status: Verified from source
+
+ANNOUNCEMENT CONSTRAINTS
+- Audience: Open-source contributors, student developers, and AI builders
+- Tone: Inspiring, welcoming, and high-energy
+- Call to Action: Sign in to My Hacktoberfest with your MyMLH account, register for a local Fest or join DEV Challenges online, and start building with open-source AI today!
+
+VERIFIED FACTS
+- Event Name: Hacktoberfest 2026 | AI belongs to everyone
+- Event Window: October 1, 2026 to October 31, 2026
+- Core Theme: Learning and building with open-source AI and open-weight models
+- Organizers: Major League Hacking (MLH) and DEV, in partnership with DigitalOcean
+- Format: Hybrid - 300+ in-person community Fests worldwide plus global online digital events
+- Online Channels: DEV Challenges (weekly open-source AI prompts), MLH livestreams, and Global Hack Week: Hacktoberfest
+- Reward Policy Update: Traditional pull request counting has been phased out to reduce maintainer spam; rewards are now earned through active learning, building, and challenge participation
+- Swag & Rewards: Official sticker pack shipped to participants' doors upon completing dashboard requirements; local Fests provide limited edition T-shirts and physical swag; exclusive DEV digital badges awarded for challenge submissions
+
+UNVERIFIED OR MISSING DETAILS (UNKNOWNS)
+- Individual In-Person Fest Venues: Unknown (managed independently by 300+ local hosts on respective event pages)
+- Local Host Contact Emails: Unknown (requires visiting individual Fest registration links)
+- Ticket Pricing: Free admission across standard events (sponsored by DigitalOcean, MLH, and DEV)
